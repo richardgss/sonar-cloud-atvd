@@ -1,0 +1,8 @@
+{
+  "name": "sonar-cloud-atvd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/richardgss/sonar-cloud-atvd.git",
+  "author": "richard-v7web <richard.souza@v7web.com.br>",
+  "license": "MIT"
+}
